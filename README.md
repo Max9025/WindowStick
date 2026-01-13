@@ -45,8 +45,7 @@
 ---
 
 ## 📷 Скриншоты
-![Main window](screenshots/main-window.png)
-![Tray menu](screenshots/tray-menu.png)
+![WindowStick Screenshot](screenshots/img_Relise.png)
 
 ---
 
