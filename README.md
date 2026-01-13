@@ -45,11 +45,11 @@
 ---
 
 ## 📷 Скриншоты
-*(будут добавлены)*
+![Main window](screenshots/main-window.png)
+![Tray menu](screenshots/tray-menu.png)
 
 ---
 
 ## 📄 Лицензия
-MIT
 
-MIT License © 2026 Max9025
+MIT License
